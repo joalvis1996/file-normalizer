@@ -1,0 +1,4 @@
+1. spring.io 접속 후 환경설정
+2. generate 클릭하여 압축파일 다운로드
+3. 프로젝트 root에 압축 해제
+4. ./gradlew bootRun 로 실행
